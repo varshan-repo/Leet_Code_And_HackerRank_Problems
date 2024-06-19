@@ -1,2 +1,2 @@
-# Leet_Code_Problems
-This Repo contains the LeetCode problems that I've solved till now.
+# Leet_Code_And_HackerRank_Problems
+This Repo contains the LeetCode and HackerRank problems that I've solved till now.
